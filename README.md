@@ -1,12 +1,12 @@
 # Full Stack JS Tailwind Assignment 
 # Shopify Clone
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
+![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-Red)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1--lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1--blue)
 
-![name](https://img.shields.io/badge/name%20-praveen-green)
+![name](https://img.shields.io/badge/name%20-Amit-green)
 
 ## Project  [Live Link](https://shopify-clone-tailwind-project.netlify.app/)
 
